@@ -683,13 +683,9 @@ jobs:
           CONFIG_PACKAGE_luci-compat=y
           CONFIG_PACKAGE_luci-mod-admin-full=y
           CONFIG_PACKAGE_luci-app-adblock=y
-          CONFIG_PACKAGE_luci-app-advanced-reboot=y
-          CONFIG_PACKAGE_luci-app-attendedsysupgrade=y
           CONFIG_PACKAGE_luci-app-firewall=y
           CONFIG_PACKAGE_luci-app-nlbwmon=y
-          CONFIG_PACKAGE_luci-app-ntpc=y
           CONFIG_PACKAGE_luci-app-watchcat=y
-          CONFIG_PACKAGE_luci-app-wol=y
           CONFIG_PACKAGE_luci-theme-bootstrap=y
           CONFIG_PACKAGE_luci-proto-ppp=y
           CONFIG_PACKAGE_luci-lib-ip=y
@@ -697,13 +693,10 @@ jobs:
           CONFIG_PACKAGE_luci-lib-nixio=y
           CONFIG_PACKAGE_default-settings=y
           CONFIG_PACKAGE_luci-i18n-adblock-zh-cn=y
-          CONFIG_PACKAGE_luci-i18n-advanced-reboot-zh-cn=y
           CONFIG_PACKAGE_luci-i18n-base-zh-cn=y
           CONFIG_PACKAGE_luci-i18n-firewall-zh-cn=y
           CONFIG_PACKAGE_luci-i18n-nlbwmon-zh-cn=y
-          CONFIG_PACKAGE_luci-i18n-ntpc-zh-cn=y
           CONFIG_PACKAGE_luci-i18n-watchcat-zh-cn=y
-          CONFIG_PACKAGE_luci-i18n-wol-zh-cn=y
           CONFIG_POSTFIX_TLS=y
           CONFIG_POSTFIX_SASL=y
           CONFIG_POSTFIX_LDAP=y
